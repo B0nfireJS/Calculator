@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack_pug_starter=self.webpackChunkwebpack_pug_starter||[]).push([[160],{186:function(){console.log("test modules")},36:function(e,s,n){"use strict";n(186),console.log("components page")}},function(e){e(e.s=36)}]);
